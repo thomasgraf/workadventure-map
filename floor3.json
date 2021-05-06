@@ -27,7 +27,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -39,7 +39,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -59,7 +59,7 @@
                 {
                  "name":"jitsiUrl",
                  "type":"string",
-                 "value":"meet.ise.fraunhofer.de"
+                 "value":"meet2.ise.fraunhofer.de"
                 }, 
                 {
                  "name":"silent",
@@ -79,7 +79,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -97,7 +97,7 @@
                  "value":".\/floor4.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -125,7 +125,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -136,7 +136,7 @@
          "name":"things",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -144,12 +144,6 @@
  "nextlayerid":22,
  "nextobjectid":2,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"script",
-         "type":"string",
-         "value":"script.js"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.6.0",
  "tileheight":32,
