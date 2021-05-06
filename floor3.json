@@ -90,6 +90,12 @@
          "id":19,
          "name":"exitFloor4",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":".\/floor4.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
