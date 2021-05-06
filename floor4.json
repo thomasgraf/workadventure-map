@@ -59,7 +59,23 @@
          "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":18.84375,
+                 "id":1,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Floor 4",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":84.625,
+                 "x":807.809052415623,
+                 "y":135.89804848985
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -79,7 +95,7 @@
          "y":0
         }],
  "nextlayerid":19,
- "nextobjectid":1,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "properties":[
         {
